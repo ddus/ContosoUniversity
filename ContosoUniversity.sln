@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity", "ContosoUniversity\ContosoUniversity.csproj", "{76C5761B-5C72-46F7-A647-C0E1D2B79D31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{8BA038FD-AB36-479C-B795-569D885C5558}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{93B2852B-C081-42EC-B8CF-28DA045A230B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTools", "MyTools\MyTools.csproj", "{499439BA-4A7B-475C-B193-0DAB6286E46E}"
@@ -21,10 +19,6 @@ Global
 		{76C5761B-5C72-46F7-A647-C0E1D2B79D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76C5761B-5C72-46F7-A647-C0E1D2B79D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76C5761B-5C72-46F7-A647-C0E1D2B79D31}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8BA038FD-AB36-479C-B795-569D885C5558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8BA038FD-AB36-479C-B795-569D885C5558}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8BA038FD-AB36-479C-B795-569D885C5558}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8BA038FD-AB36-479C-B795-569D885C5558}.Release|Any CPU.Build.0 = Release|Any CPU
 		{93B2852B-C081-42EC-B8CF-28DA045A230B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{93B2852B-C081-42EC-B8CF-28DA045A230B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93B2852B-C081-42EC-B8CF-28DA045A230B}.Release|Any CPU.ActiveCfg = Release|Any CPU
